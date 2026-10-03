@@ -1,0 +1,26 @@
+compound,group,weight,rotatable_bonds,heavy_atoms,score,efficiency,group2,expected_for_size,size_adjusted,KD_uM
+ensitrelvir,drug,531.9,5,37,-8.722,0.236,non-covalent Mpro inhibitor,-7.66,-1.06,0.4
+saquinavir,drug,670.9,13,49,-8.611,0.176,HIV protease inhibitor,-8.64,0.03,0.49
+nelfinavir,drug,567.8,11,40,-8.58,0.214,HIV protease inhibitor,-7.91,-0.67,0.51
+lopinavir,drug,628.8,16,46,-8.275,0.18,HIV protease inhibitor,-8.4,0.12,0.86
+indinavir,drug,613.8,13,45,-8.194,0.182,HIV protease inhibitor,-8.31,0.12,0.98
+darunavir,drug,547.7,13,38,-7.977,0.21,HIV protease inhibitor,-7.74,-0.24,1.42
+boceprevir,drug,519.7,8,37,-7.915,0.214,covalent / cysteine-reactive,-7.66,-0.25,1.58
+luteolin,natural compound,286.2,5,21,-7.807,0.372,natural compound,-6.35,-1.46,1.89
+myricetin,natural compound,318.2,7,23,-7.795,0.339,natural compound,-6.52,-1.28,1.93
+atazanavir,drug,704.9,15,51,-7.789,0.153,HIV protease inhibitor,-8.8,1.01,1.95
+nirmatrelvir,drug,499.5,6,35,-7.739,0.221,covalent / cysteine-reactive,-7.5,-0.24,2.12
+quercetin,natural compound,302.2,6,22,-7.424,0.337,natural compound,-6.43,-0.99,3.61
+ritonavir,drug,721.0,18,50,-7.39,0.148,HIV protease inhibitor,-8.72,1.33,3.82
+curcumin,natural compound,368.4,10,27,-7.383,0.273,natural compound,-6.84,-0.54,3.87
+amprenavir,drug,505.6,13,35,-7.353,0.21,HIV protease inhibitor,-7.5,0.15,4.07
+baicalein,natural compound,270.2,4,20,-7.169,0.358,natural compound,-6.27,-0.9,5.55
+hydroxychloroquine,drug,335.9,10,23,-6.35,0.276,other repurposed drug,-6.52,0.17,22.13
+chloroquine,drug,319.9,8,22,-6.202,0.282,other repurposed drug,-6.43,0.23,28.41
+ibuprofen,negative control,206.3,4,15,-6.107,0.407,negative control,-5.86,-0.25,33.35
+carmofur,drug,257.3,5,18,-5.643,0.314,covalent / cysteine-reactive,-6.11,0.47,72.98
+caffeine,negative control,194.2,0,14,-5.384,0.385,negative control,-5.78,0.4,113.0
+aspirin,negative control,180.2,2,13,-4.906,0.377,negative control,-5.7,0.79,253.23
+favipiravir,drug,157.1,1,11,-4.867,0.442,other repurposed drug,-5.54,0.67,270.46
+paracetamol,negative control,151.2,2,11,-4.827,0.439,negative control,-5.54,0.71,289.35
+disulfiram,drug,296.6,4,16,-4.26,0.266,covalent / cysteine-reactive,-5.94,1.68,753.49
